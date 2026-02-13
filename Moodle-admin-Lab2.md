@@ -378,10 +378,10 @@ Data settings:
 4. Upload type: Add new only
 5. Force password change: Yes
 
-**บันทึกรูปหน้า Users (Student):** 
-```
- # บันทึกรูปหน้า Users
-```
+**บันทึกรูปหน้า Users (Student):**
+
+<img width="1843" height="867" alt="image" src="https://github.com/user-attachments/assets/dc959559-5f11-40e4-8447-4b4443138900" />
+
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
